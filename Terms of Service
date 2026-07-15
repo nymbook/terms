@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Service – NymDev</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #ffffff;
+      color: #3c4043;
+      line-height: 1.6;
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1 {
+      color: #1a73e8;
+      font-size: 32px;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #1a73e8;
+      font-size: 24px;
+      font-weight: 600;
+      margin-top: 40px;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #e8eaed;
+    }
+    h3 {
+      color: #1a73e8;
+      font-size: 18px;
+      font-weight: 600;
+      margin-top: 24px;
+      margin-bottom: 12px;
+    }
+    h4 {
+      color: #1a73e8;
+      font-size: 16px;
+      font-weight: 600;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+    p, li {
+      font-size: 14px;
+      margin-bottom: 12px;
+    }
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .effective-date {
+      text-align: center;
+      color: #5f6368;
+      font-style: italic;
+      margin-bottom: 40px;
+    }
+    .language-section {
+      margin-bottom: 50px;
+    }
+    .contact-email {
+      font-weight: 500;
+    }
+    .health-disclaimer {
+      background: #fff3cd;
+      border-left: 4px solid #ffc107;
+      padding: 12px 16px;
+      margin: 15px 0;
+      font-size: 14px;
+    }
+    .refund-policy {
+      background: #e3f2fd;
+      border-left: 4px solid #1565c0;
+      padding: 12px 16px;
+      margin: 15px 0;
+      font-size: 14px;
+    }
+    .language-divider {
+      text-align: center;
+      font-size: 20px;
+      font-weight: 700;
+      color: #1a73e8;
+      margin: 60px 0 30px;
+      padding-top: 20px;
+      border-top: 2px solid #e8eaed;
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 20px 15px;
+      }
+      h1 {
+        font-size: 28px;
+      }
+      h2 {
+        font-size: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Terms of Service</h1>
+  <p class="effective-date">Effective date: July 13, 2026</p>
+
+  <!-- ==================== ENGLISH VERSION ==================== -->
+  <div class="language-section">
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By downloading, installing, or using any mobile application ("App") developed and published by <strong>NymDev</strong> ("we," "us," or "our"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use our Apps.</p>
+    <p>These Terms apply to all Apps in our portfolio, including but not limited to utility apps, games, lifestyle apps, and health reference apps.</p>
+
+    <h2>2. Use of Our Apps</h2>
+    <ul>
+      <li><strong>Eligibility</strong>: You must be at least 13 years old (or the minimum age in your country) to use our Apps.</li>
+      <li><strong>License</strong>: We grant you a limited, non-exclusive, non-transferable, revocable license to use our Apps for personal, non-commercial purposes.</li>
+      <li><strong>Prohibited Activities</strong>: You agree not to:
+        <ul>
+          <li>Reverse engineer, decompile, or modify any part of our Apps.</li>
+          <li>Use our Apps for any unlawful purpose.</li>
+          <li>Interfere with or disrupt the operation of our Apps or servers.</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h2>3. User Accounts</h2>
+    <p>Most of our Apps do not require you to create an account. For features that may require login (if any), you are responsible for maintaining the confidentiality of your credentials and for all activities that occur under your account.</p>
+
+    <h2>4. In-App Purchases (Quizdom Game – com.nymdev.typhutrithuc)</h2>
+    <p>Our App <strong>Quizdom</strong> offers premium features through in-app purchases.</p>
+    <ul>
+      <li><strong>Payment Processing</strong>: All transactions are securely processed by <strong>Google Play Billing</strong>. We do not collect or store your payment information.</li>
+      <li><strong>Premium Benefits</strong>: Purchasing the "Remove Ads and Unlock All Questions" package grants you lifetime access to those features on your device. Benefits may be restored if you reinstall the app using the same Google Play account.</li>
+    </ul>
+
+    <h2>5. Refund Policy (Quizdom Game – com.nymdev.typhutrithuc)</h2>
+    <div class="refund-policy">
+      <ul>
+        <li><strong>Requests within 48 hours</strong>: All in-app Premium purchases are eligible for a refund in accordance with Google Play's standard refund policy if the request is submitted within 48 hours of the purchase time.</li>
+        <li><strong>Requests after 48 hours</strong>: After 48 hours, all purchases are considered final and non-refundable. Refunds will only be considered on a case-by-case basis for exceptional circumstances, such as severe technical issues on our end that prevent you from accessing Premium features after a successful payment.</li>
+        <li><strong>Contact Support</strong>: For order assistance, please contact us at <a href="mailto:contact.nymdev@gmail.com" class="contact-email">contact.nymdev@gmail.com</a> with your Google Play order ID (GPA.xxxx-xxxx-xxxx-xxxxx).</li>
+      </ul>
+    </div>
+
+    <h2>6. Third-Party Services</h2>
+    <p>Our Apps may integrate with third-party services, including:</p>
+    <ul>
+      <li><strong>Google AdMob</strong>: For displaying advertisements. AdMob may collect non-personally identifiable information for ad targeting. See <a href="https://policies.google.com/privacy" target="_blank">Google's Privacy Policy</a>.</li>
+      <li><strong>Firebase Analytics</strong>: For anonymous usage analytics to improve our Apps.</li>
+      <li><strong>ExchangeRate-API</strong> (Unit Converter App only): To provide real-time currency exchange rates. No personal data is shared.</li>
+      <li><strong>Google Gemini AI</strong> (selected Apps): To power AI Assistant features. Your questions are sent to Google's servers; we do not store them.</li>
+    </ul>
+    <p>We are not responsible for the practices of third-party services. Your use of these services is subject to their respective terms and policies.</p>
+
+    <h2>7. Permissions</h2>
+    <p>Our Apps may request certain device permissions to provide core functionality:</p>
+    <ul>
+      <li><strong>Network Access</strong>: For ads and content updates.</li>
+      <li><strong>Location &amp; Wi-Fi Multicast</strong> (Network Toolbox App only): To scan and display Wi-Fi network information. We do not collect or share your actual location.</li>
+      <li><strong>Usage Access</strong> (FocusRealm App only): To monitor screen time for entertainment apps you set limits on. All data is processed locally and never leaves your device.</li>
+      <li><strong>Notifications &amp; Alarms</strong>: To send reminders or alerts. All data is stored locally on your device.</li>
+    </ul>
+    <p>We do not access your camera, microphone, contacts, or sensitive personal data unless explicitly stated and required for a specific feature.</p>
+
+    <h2>8. User-Generated Content</h2>
+    <p>If our Apps allow you to create or share content (e.g., images, text):</p>
+    <ul>
+      <li>You retain ownership of your content.</li>
+      <li>You are solely responsible for any content you create, upload, or share.</li>
+      <li>We do not claim ownership of your content and do not share it automatically—only when you actively trigger a sharing function.</li>
+    </ul>
+
+    <h2>9. Health and Wellness Apps – Disclaimer</h2>
+    <p>For health-related Apps in our portfolio:</p>
+    <ul>
+      <li>All content is for <strong>reference and educational purposes only</strong>.</li>
+      <li>We do <strong>not</strong> collect, store, or process any health data you may enter.</li>
+      <li>Our Apps are <strong>not a substitute for professional medical advice, diagnosis, or treatment</strong>.</li>
+      <li>Always consult a qualified healthcare provider before applying any remedies or health-related information found in our Apps.</li>
+    </ul>
+    <div class="health-disclaimer">
+      <strong>Medical Disclaimer:</strong> We are not responsible for any consequences arising from the use of health information provided in our Apps.
+    </div>
+
+    <h2>10. Intellectual Property</h2>
+    <p>All content, trademarks, and intellectual property in our Apps are owned by NymDev or our licensors. You may not copy, modify, or distribute any part of our Apps without our prior written consent.</p>
+
+    <h2>11. Disclaimer of Warranties</h2>
+    <p>Our Apps are provided <strong>"as is"</strong> and <strong>"as available"</strong> without any warranties of any kind, either express or implied. We do not guarantee that our Apps will be error-free, secure, or uninterrupted.</p>
+
+    <h2>12. Limitation of Liability</h2>
+    <p>To the fullest extent permitted by law, NymDev shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our Apps. Our total liability shall not exceed the amount you paid (if any) for the specific App.</p>
+
+    <h2>13. Changes to These Terms</h2>
+    <p>We may update these Terms from time to time. We will notify you by posting the new Terms on this page and updating the "Effective Date" above. Your continued use of our Apps after changes constitutes your acceptance of the revised Terms.</p>
+
+    <h2>14. Governing Law</h2>
+    <p>These Terms shall be governed by and construed in accordance with the laws of Vietnam, without regard to its conflict of law provisions.</p>
+
+    <h2>15. Contact Us</h2>
+    <p>If you have any questions or concerns about these Terms, please contact us:</p>
+    <p>📧 <strong>Email</strong>: <a href="mailto:contact.nymdev@gmail.com" class="contact-email">contact.nymdev@gmail.com</a></p>
+
+  </div>
+
+  <!-- ==================== VIETNAMESE VERSION ==================== -->
+  <div class="language-divider">✦ ✦ ✦</div>
+
+  <div class="language-section">
+    <h2 style="text-align:center;">Điều Khoản Dịch Vụ – NymDev</h2>
+    <p style="text-align:center; color:#5f6368; font-style:italic;">Ngày hiệu lực: 13 tháng 7, 2026</p>
+
+    <h2>1. Chấp nhận Điều khoản</h2>
+    <p>Bằng việc tải xuống, cài đặt hoặc sử dụng bất kỳ ứng dụng di động nào ("Ứng dụng") do <strong>NymDev</strong> ("chúng tôi") phát triển và phát hành, bạn đồng ý tuân theo các Điều khoản Dịch vụ này ("Điều khoản"). Nếu bạn không đồng ý, vui lòng không sử dụng Ứng dụng của chúng tôi.</p>
+    <p>Các Điều khoản này áp dụng cho tất cả Ứng dụng trong danh mục của chúng tôi, bao gồm tiện ích, trò chơi, ứng dụng lối sống và tham khảo sức khỏe.</p>
+
+    <h2>2. Sử dụng Ứng dụng</h2>
+    <ul>
+      <li><strong>Điều kiện</strong>: Bạn phải từ đủ 13 tuổi (hoặc độ tuổi tối thiểu theo quy định tại quốc gia của bạn) để sử dụng Ứng dụng.</li>
+      <li><strong>Giấy phép</strong>: Chúng tôi cấp cho bạn giấy phép có giới hạn, không độc quyền, không chuyển nhượng, có thể thu hồi để sử dụng Ứng dụng cho mục đích cá nhân, phi thương mại.</li>
+      <li><strong>Hoạt động bị cấm</strong>: Bạn đồng ý không:
+        <ul>
+          <li>Dịch ngược, tháo gỡ hoặc sửa đổi bất kỳ phần nào của Ứng dụng.</li>
+          <li>Sử dụng Ứng dụng cho mục đích bất hợp pháp.</li>
+          <li>Can thiệp hoặc làm gián đoạn hoạt động của Ứng dụng hoặc máy chủ.</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h2>3. Tài khoản người dùng</h2>
+    <p>Hầu hết các Ứng dụng của chúng tôi không yêu cầu bạn tạo tài khoản. Đối với các tính năng có thể yêu cầu đăng nhập (nếu có), bạn chịu trách nhiệm bảo mật thông tin đăng nhập và mọi hoạt động diễn ra dưới tài khoản của bạn.</p>
+
+    <h2>4. Mua hàng trong ứng dụng (Game Quizdom – com.nymdev.typhutrithuc)</h2>
+    <p>Ứng dụng <strong>Quizdom</strong> cung cấp các tính năng cao cấp thông qua mua hàng trong ứng dụng.</p>
+    <ul>
+      <li><strong>Xử lý thanh toán</strong>: Tất cả giao dịch được xử lý an toàn bởi <strong>Google Play Billing</strong>. Chúng tôi không thu thập hoặc lưu trữ thông tin thanh toán của bạn.</li>
+      <li><strong>Quyền lợi cao cấp</strong>: Mua gói "Xóa quảng cáo và Mở khóa toàn bộ câu hỏi" cấp cho bạn quyền truy cập trọn đời vào các tính năng đó trên thiết bị của bạn. Quyền lợi có thể được khôi phục nếu bạn cài lại ứng dụng bằng cùng tài khoản Google Play.</li>
+    </ul>
+
+    <h2>5. Chính sách Hoàn tiền (Game Quizdom – com.nymdev.typhutrithuc)</h2>
+    <div class="refund-policy">
+      <ul>
+        <li><strong>Yêu cầu trong vòng 48 giờ</strong>: Mọi giao dịch mua gói Premium trong ứng dụng đều được xử lý hoàn tiền theo chính sách chung của Google Play nếu yêu cầu được gửi trong vòng 48 giờ kể từ thời điểm mua hàng.</li>
+        <li><strong>Yêu cầu sau 48 giờ</strong>: Sau 48 giờ, mọi giao dịch mua hàng được coi là giao dịch cuối cùng và không thể hoàn lại. Chúng tôi sẽ chỉ xem xét hoàn tiền đối với các trường hợp ngoại lệ liên quan đến lỗi kỹ thuật nghiêm trọng từ phía ứng dụng khiến người dùng không thể sử dụng tính năng Premium dù đã thanh toán thành công.</li>
+        <li><strong>Liên hệ hỗ trợ</strong>: Để yêu cầu hỗ trợ về đơn hàng, vui lòng liên hệ với chúng tôi qua email: <a href="mailto:contact.nymdev@gmail.com" class="contact-email">contact.nymdev@gmail.com</a> kèm theo mã đơn hàng của Google Play (GPA.xxxx-xxxx-xxxx-xxxxx).</li>
+      </ul>
+    </div>
+
+    <h2>6. Dịch vụ bên thứ ba</h2>
+    <p>Ứng dụng của chúng tôi có thể tích hợp với các dịch vụ bên thứ ba, bao gồm:</p>
+    <ul>
+      <li><strong>Google AdMob</strong>: Hiển thị quảng cáo. AdMob có thể thu thập thông tin không định danh để nhắm mục tiêu quảng cáo. Xem <a href="https://policies.google.com/privacy" target="_blank">Chính sách quyền riêng tư của Google</a>.</li>
+      <li><strong>Firebase Analytics</strong>: Thu thập dữ liệu sử dụng ẩn danh để cải thiện Ứng dụng.</li>
+      <li><strong>ExchangeRate-API</strong> (chỉ ứng dụng Chuyển đổi Đơn vị): Cung cấp tỷ giá tiền tệ theo thời gian thực. Không chia sẻ dữ liệu cá nhân.</li>
+      <li><strong>Google Gemini AI</strong> (một số ứng dụng): Cung cấp tính năng Trợ lý AI. Câu hỏi được gửi đến máy chủ Google; chúng tôi không lưu trữ chúng.</li>
+    </ul>
+    <p>Chúng tôi không chịu trách nhiệm về hoạt động của các dịch vụ bên thứ ba. Việc bạn sử dụng các dịch vụ này phải tuân theo điều khoản và chính sách của họ.</p>
+
+    <h2>7. Quyền truy cập</h2>
+    <p>Ứng dụng của chúng tôi có thể yêu cầu một số quyền trên thiết bị để cung cấp chức năng cốt lõi:</p>
+    <ul>
+      <li><strong>Truy cập mạng</strong>: Hiển thị quảng cáo và cập nhật nội dung.</li>
+      <li><strong>Vị trí &amp; Wi-Fi Multicast</strong> (chỉ ứng dụng Network Toolbox): Quét và hiển thị thông tin mạng Wi-Fi. Chúng tôi không thu thập hoặc chia sẻ vị trí thực tế của bạn.</li>
+      <li><strong>Quyền sử dụng</strong> (chỉ ứng dụng FocusRealm): Theo dõi thời gian sử dụng các ứng dụng giải trí bạn đặt giới hạn. Dữ liệu được xử lý hoàn toàn cục bộ và không bao giờ rời khỏi thiết bị.</li>
+      <li><strong>Thông báo &amp; Báo thức</strong>: Gửi lời nhắc hoặc cảnh báo. Dữ liệu được lưu trữ cục bộ trên thiết bị.</li>
+    </ul>
+    <p>Chúng tôi không truy cập camera, microphone, danh bạ hoặc dữ liệu cá nhân nhạy cảm trừ khi được nêu rõ và cần thiết cho một tính năng cụ thể.</p>
+
+    <h2>8. Nội dung do người dùng tạo</h2>
+    <p>Nếu Ứng dụng cho phép bạn tạo hoặc chia sẻ nội dung (ví dụ: hình ảnh, văn bản):</p>
+    <ul>
+      <li>Bạn giữ quyền sở hữu đối với nội dung của mình.</li>
+      <li>Bạn chịu trách nhiệm duy nhất về mọi nội dung bạn tạo, tải lên hoặc chia sẻ.</li>
+      <li>Chúng tôi không nhận quyền sở hữu nội dung của bạn và không chia sẻ tự động—chỉ khi bạn chủ động kích hoạt chức năng chia sẻ.</li>
+    </ul>
+
+    <h2>9. Ứng dụng Sức khỏe – Tuyên bố miễn trừ</h2>
+    <p>Đối với các Ứng dụng liên quan đến sức khỏe:</p>
+    <ul>
+      <li>Mọi nội dung chỉ dành cho mục đích <strong>tham khảo và giáo dục</strong>.</li>
+      <li>Chúng tôi <strong>không</strong> thu thập, lưu trữ hoặc xử lý bất kỳ dữ liệu sức khỏe nào bạn có thể nhập.</li>
+      <li>Ứng dụng của chúng tôi <strong>không thay thế cho lời khuyên, chẩn đoán hoặc điều trị y tế chuyên nghiệp</strong>.</li>
+      <li>Luôn tham khảo ý kiến chuyên gia y tế có chứng chỉ trước khi áp dụng bất kỳ biện pháp hoặc thông tin sức khỏe nào từ Ứng dụng.</li>
+    </ul>
+    <div class="health-disclaimer">
+      <strong>Tuyên bố miễn trừ y tế:</strong> Chúng tôi không chịu trách nhiệm về bất kỳ hậu quả nào phát sinh từ việc sử dụng thông tin sức khỏe trong Ứng dụng.
+    </div>
+
+    <h2>10. Sở hữu trí tuệ</h2>
+    <p>Tất cả nội dung, thương hiệu và tài sản trí tuệ trong Ứng dụng đều thuộc sở hữu của NymDev hoặc bên cấp phép của chúng tôi. Bạn không được sao chép, sửa đổi hoặc phân phối bất kỳ phần nào của Ứng dụng nếu không có sự đồng ý trước bằng văn bản của chúng tôi.</p>
+
+    <h2>11. Từ chối bảo đảm</h2>
+    <p>Ứng dụng được cung cấp <strong>"nguyên trạng"</strong> và <strong>"như hiện có"</strong> mà không có bất kỳ bảo đảm nào, dù rõ ràng hay ngụ ý. Chúng tôi không đảm bảo Ứng dụng sẽ không có lỗi, an toàn hoặc hoạt động liên tục.</p>
+
+    <h2>12. Giới hạn trách nhiệm</h2>
+    <p>Trong phạm vi tối đa được pháp luật cho phép, NymDev sẽ không chịu trách nhiệm đối với bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc mang tính trừng phạt nào phát sinh từ việc bạn sử dụng Ứng dụng. Tổng trách nhiệm của chúng tôi sẽ không vượt quá số tiền bạn đã thanh toán (nếu có) cho Ứng dụng cụ thể đó.</p>
+
+    <h2>13. Thay đổi Điều khoản</h2>
+    <p>Chúng tôi có thể cập nhật Điều khoản này theo thời gian. Chúng tôi sẽ thông báo cho bạn bằng cách đăng Điều khoản mới trên trang này và cập nhật "Ngày hiệu lực" ở trên. Việc bạn tiếp tục sử dụng Ứng dụng sau khi thay đổi đồng nghĩa với việc bạn chấp nhận Điều khoản sửa đổi.</p>
+
+    <h2>14. Luật điều chỉnh</h2>
+    <p>Các Điều khoản này sẽ được điều chỉnh và giải thích theo luật pháp Việt Nam, không áp dụng các quy định về xung đột pháp luật.</p>
+
+    <h2>15. Liên hệ</h2>
+    <p>Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về Điều khoản này, vui lòng liên hệ:</p>
+    <p>📧 <strong>Email</strong>: <a href="mailto:contact.nymdev@gmail.com" class="contact-email">contact.nymdev@gmail.com</a></p>
+
+  </div>
+
+</body>
+</html>
